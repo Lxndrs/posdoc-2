@@ -1,0 +1,42 @@
+########################## Second posdoctoral year project #################################
+
+* Authors
+  - Jorge A. Tarango Yong
+  - Mario Rodríguez Martínez
+  - Raúl Gutiérrez Zalapa 
+* Goal
+  The goal of this project is to write a second paper. The idea I have in mind so far is to gather data about meteor impacts
+  in mexican territory in all available epochs. Mass distributions of meteors entering earth athmosphere seem to follow a lognormal
+  distribution, but statistics of moon craters suggest that meteor impacts follow instead a power law. The discrepancy may be explained
+  considering that moon craters are preserved for a long time and even small impacts are still recorded in the Moon surface, in such way
+  that power law is the true distribution of objects impacting Earth, but we find a lognormal distribution because we cannot recover, or
+  even realize the existence of small objects, which are not accounted. In resume, the lognormal distribution we see is a biased power law.
+  Another project we may run is if we may find or do a model or simulations of meteors entering Earth and predict the response of ionosphere,
+  and compare with actual GPS data.
+  Other possible project in mind is to simulate the spectra of meteoroids when entering the atmosphere and based on the description given by
+  ocular witnesses, infer meteor chemical properties and even classification (and do some statistics withj already registered). This may be
+  important since most objects entering the atmosphere cannot be recovered (they burn completely or fall in unaccesible places or simply
+  nobody noticed the meteor fell).
+* Data
+** Types of data
+   - Mass
+   - Diameter
+   - Energy released
+   - Density
+   - Classification
+* Concepts I may need
+** Classification of meteorites
+* Scripts
+* Daily record
+  - [2022-03-10]
+    - Creation of Github repository and Journal.
+    - Write the current goals of projects
+    - Research of basic concepts
+    - Start organizing TODO list
+    - First commit to Github
+* TODO list
+- [ ] Gather data of meteorites from The meteoritical Society https://www.lpi.usra.edu/meteor/
+- [ ] Gather more data from GLM database
+- [ ] Gather data from American Meteor Society
+- [ ] Investigate more from emission spectra of more common materials in meteors (Iron, silicates, carbon, oxygen, etc.)
+- [ ] Think about new ideas
